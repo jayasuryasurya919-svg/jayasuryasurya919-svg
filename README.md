@@ -1,5 +1,4 @@
-## Hello,I'm Surya 👋
-###### Wellcome to my Github profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
+
 <!--
 **jayasuryasurya919-svg/jayasuryasurya919-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
