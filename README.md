@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello,I'm Surya 👋
+![hello](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnphb2JnOG5va3MzdHliam8wNHlwY2pvbGx5MjI4cmJ5aW00dWd3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif)
 ###### Wellcome to my Github profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
